@@ -6,19 +6,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Module 2. Transcrption Exercice - Solution</title>
+            <title>Transcrption of Reginald's hand in the Alia Lectura</title>
          </titleStmt>
          <publicationStmt>
-            <p>Dariah Teach MOOC: Digital Scholarly Editions. This file is for exercise only, not to
-               distribute.</p>
+            <p>A personal exercise to master TEI/XML in VS Code and capturing Reginald's hand</p>
          </publicationStmt>
          <sourceDesc>
-            <!-- Manuscript B -->
+            <!-- Manuscript O -->
             <msDesc xml:id="B">
                <msIdentifier>
-                  <country key="de">Germany</country>
-                  <settlement>Munich</settlement>
-                  <institution>Die Bayerische Staatsbibliothek</institution>
+                  <country key="uk">England</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
                   <repository>Manuscripts and Modern Paper</repository>
                   <idno>BSB Codex Latinus Monacensis 309</idno>
                </msIdentifier>
