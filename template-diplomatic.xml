@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of Reginald's hand in the Alia Lectura: Nota de fide trinitatis</title>
+        <author>Thomas de Aquino</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title><!-- title [{ms-identifier} Transcription] --></title>
+          <date when="2020-12-25">December 25, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>A personal exercise to master TEI/XML in VS Code and capturing Reginald's hand</p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- Manuscript O -->
+        <msDesc xml:id="O">
+          <msIdentifier>
+            <country key="uk">England</country>
+            <settlement>Oxford</settlement>
+            <institution>Bodleian Library</institution>
+            <repository>Lincoln College, MS Lat.</repository>
+            <idno>95</idno>
+          </msIdentifier>
+          
+          <physDesc>
+            <handDesc>
+              <handNote xml:id="Bh1" scribe="first" scope="major"> Unidentified hand that
+                        wrote most of manuscript. </handNote>
+              <handNote xml:id="Bh2" scribe="other" scope="minor"> Corrections by first hand
+                        or another hand. </handNote>
+            </handDesc>
+          </physDesc>
+
+        </msDesc>
+        <listWit>
+          <witness xml:id="O" n="OxLinc">Oxford, Lincoln College ms lat. 95, f. 73v marg. ext.—73v in calce</witness>
+        </listWit>
+      </sourceDesc>
+    
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-12-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="itemdid">
+        <head>Let's git at it!</head>
+        <p>
+          <lb ed="#O" />
+          <pc type="pilcrow">¶</pc>
+          Notandum quod circa fidem trinitatis errauit arrius<pc type="punctus-medius">·</pc>et
+          <lb ed="#O"/>sabellius<pc type="punctus">.</pc> Nam arrius induxit pluralitatem essentie<pc type="punctus-medius">·</pc>
+          <lb ed="#O"/>Sabellius uero abstulit trinitatem personarum<pc type="punctus">.</pc> Et ideo cum lo
+          <lb ed="#O"/>quimur<!-- note the q barre-->de trinitate<pc type="punctus-elevatus">;</pc><!-- point and tickle with straight tickle towards two-o'clock-->uitare debemus omnia nomina que aliquam
+          <lb ed="#O"/>occcasionem prebere possent errori istorum<pc type="punctus">.</pc> 
+          <lb ed="#O"/>Aggrauauit<!-- wonderful double-Reginald-letter-G-->
+          <lb ed="#O"/>autem arrius errorum suum in quattuor<pc type="punctus-medius">·</pc> secundum quattuor que po
+          <lb ed="#O"/>suit<pc type="punctus-medius">·</pc> scilicet<pc type="punctus-medius">·</pc> aliam esse essentiam patris et filii<!-- what's going on here? Did he start to write 'filius' and change?--> et spirituS Sancti<pc type="punctus">.</pc> Item <!-- deleted in MS-->dissi
+          <lb ed="#O"/>milutudine, Inequalitatem<pc type="punctus-medius">·</pc> et negauit simplicitatem<pc type="punctus">.</pc> Et propter hoc uitanda sunt 4or nomina istis correspondencia<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> diuersum<pc type="punctus-medius">·</pc> quod importat diuersitatem essentie<pc type="punctus-medius">·</pc> diuisum quod repugnat simplicitati<pc type="punctus-medius">·</pc> Alienum quod
+          <lb ed="#O"/>tollit similitudinem<pc type="punctus-medius">·</pc> dispar quod tollit equalitatem<pc type="punctus-medius">·</pc> debemus autem dicere<pc type="punctus-medius">·</pc>  unum<pc type="punctus-medius">·</pc> simplicem<pc type="punctus-medius">·</pc> similem equalem<pc type="punctus-medius">·</pc> <pc type="pilcrow">¶</pc>Sabellius uero<pc type="punctus-medius">·</pc> p <!-- deleted in MS: double strike-through-->auferens trinitatem personarum<pc type="punctus-medius">·</pc> dixit unam esse tantum personam in <!-- superscript--> diuinis<pc type="punctus-medius">·</pc> et quando uult est pater<pc type="punctus-medius">·</pc> quando
+          <lb ed="#O"/>uult est filius<pc type="punctus-medius">·</pc> et quando uult est spiritus Sanctus<pc type="punctus-medius">·</pc> Et si<!-- check this tickle against others; this looks like what he'll use for a point and tickle (!) not the usual one for marking the letter i--> c circa hunc errorem 4or posuit<pc type="punctus-medius">·</pc> Nam primo tollebat communicabilitatem nature diuine<pc type="punctus-medius">·</pc> secundo realem pluralitatem personarum<pc type="punctus-medius">·</pc><!-- he also adds a north-south line through, it seems, the puncturs medius (possible stopage of copying?-->tertio ordinem originis<pc type="punctus-medius">·</pc> Et quarto
+          <lb ed="#O"/>consociationem patris et filii<pc type="punctus-medius">·</pc> que est per amorem<pc type="punctus-medius">·</pc>Et ideo debemus uitare nomina correspondentia istis quatuor<pc type="punctus-medius">·</pc> Et primo illud nomen quod important incommunicabilitatem nature diuine<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> singularem<pc type="punctus-medius">·</pc> Unde cum <!-- inserted 'cum' via caret-ish-->natura
+          <lb ed="#O"/>diuina sit communicabilis<pc type="punctus-medius">·</pc> predicamus ibi <!-- what's this???--> pluralem<pc type="punctus-medius">·</pc><!-- Note: is this like above with a punctus medius AND a north-south line?-->secondo uitamus illus nomen quod <!-- strikethrough 'importat?'-->realem pluralitatem personarum<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc>unicum<pc type="punctus-medius">·</pc>et predicamus distinctionem<pc type="punctus-medius">·</pc> Tertio uitamus nomen quod tollit ordinem originis
+          <lb ed="#O"/><pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> confusum seu confusionem<pc type="punctus-medius">·</pc> quia sunt que sunt sine ordine<pc type="punctus-medius">·</pc> et predicamus descretionem<pc type="punctus-medius">·</pc> que qui<!--note this italian qui?-->dam ordinem importat<pc type="punctus-medius">·</pc> Quarto uitamus nomen quod consociationem<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> solitarium seu solitudinem
+          <lb ed="#O" />et predicamus consonantiam<pc type="punctus-medius">·</pc> qui est societas amoris qui<!-- where else does he use this?--> est spiritus sanctus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
