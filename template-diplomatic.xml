@@ -33,11 +33,11 @@
           </msIdentifier>
           
           <physDesc>
-            <handDesc>
-              <handNote xml:id="Bh1" scribe="first" scope="major"> Unidentified hand that
-                        wrote most of manuscript. </handNote>
-              <handNote xml:id="Bh2" scribe="other" scope="minor"> Corrections by first hand
-                        or another hand. </handNote>
+            <handDesc hands="3">
+              <handNote xml:id="A" scribe="first" scope="major">Hand(s) of the In I. Sent. of Thomas</handNote>
+              <handNote xml:id="B" scribe="second" scope="major"> Unidentified Italian hand that
+                        wrote almost all of the marginalia in the manuscript. </handNote>
+              <handNote xml:id="C" scribe="third" scope="minor"> Corrections by Reginald of Piperno </handNote>
             </handDesc>
           </physDesc>
 
@@ -67,7 +67,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on"/>
-        <pb ed="#O" n="73v marg. ext." /> <!-- start of Notandum -->
+        <pb ed="#O" n="73-v" /> <!-- start of Notandum -->
     </front>
     <body>
       <div xml:id="itemdid">
