@@ -9,7 +9,7 @@
         <author>Thomas de Aquino</author>
       </titleStmt>
       <editionStmt>
-        <edition n="0.0.0-dev">
+        <edition n="0.0.1-dev">
           <title><!-- title [{ms-identifier} Transcription] --></title>
           <date when="2020-12-25">December 25, 2020</date>
         </edition>
