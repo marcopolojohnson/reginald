@@ -67,10 +67,11 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on"/>
+        <pb ed="#O" n="73v marg. ext." /> <!-- start of Notandum -->
     </front>
     <body>
       <div xml:id="itemdid">
-        <head>Let's git at it!</head>
+        <head>Notandum</head>
         <p>
           <lb ed="#O" />
           <pc type="pilcrow">¶</pc>
