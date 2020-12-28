@@ -22,7 +22,9 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
+        
         <!-- Manuscript O -->
+        
         <msDesc xml:id="O">
           <msIdentifier>
             <country key="uk">England</country>
@@ -36,15 +38,15 @@
             <handDesc hands="3">
               <handNote xml:id="A" scribe="first" scope="major">Hand(s) of the In I. Sent. of Thomas</handNote>
               <handNote xml:id="B" scribe="second" scope="major"> Unidentified Italian hand that
-                        wrote almost all of the marginalia in the manuscript. </handNote>
-              <handNote xml:id="C" scribe="third" scope="minor"> Corrections by Reginald of Piperno </handNote>
+                        wrote almost all of the marginalia in the manuscript</handNote>
+              <handNote xml:id="C" scribe="third" scope="minor"> Corrections by Reginald of Piperno</handNote>
             </handDesc>
           </physDesc>
 
         </msDesc>
-        <listWit>
+        <!-- <listWit>
           <witness xml:id="O" n="OxLinc">Oxford, Lincoln College ms lat. 95, f. 73v marg. ext.—73v in calce</witness>
-        </listWit>
+        </listWit> -->
       </sourceDesc>
     
     </fileDesc>
