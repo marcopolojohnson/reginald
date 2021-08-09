@@ -1,0 +1,244 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.4.7)  5 JAN 2021 10:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**1
+
+(/Users/johnsonm/Dev/lbp-print/examples/diplomatic-edition/diplomatic-edition.t
+ex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count176
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count177
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count178
+\mult@box=\box45
+\multicol@leftmargin=\dimen135
+\c@unbalance=\count179
+\c@collectmore=\count180
+\doublecol@number=\count181
+\multicoltolerance=\count182
+\multicolpretolerance=\count183
+\full@width=\dimen136
+\page@free=\dimen137
+\premulticols=\dimen138
+\postmulticols=\dimen139
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen140
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count184
+\c@columnbadness=\count185
+\c@finalcolumnbadness=\count186
+\last@try=\dimen141
+\multicolovershoot=\dimen142
+\multicolundershoot=\dimen143
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count187
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/eledmac/eledmac.sty
+Package: eledmac 2017/09/25 v1.24.12 LaTeX port of EDMAC
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xargs/xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+\xargs@max=\count188
+\xargs@toksa=\toks17
+\xargs@toksb=\toks18
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count189
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count190
+\decimalpart=\count191
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
+)
+
+! Package eledmac Error: Using package `eledmac' is deprecated. We suggest
+(eledmac)                using `reledmac' instead. If you want to continue
+(eledmac)                with `eledmac', you can disable this message by
+(eledmac)                adding the option `noreledmac' when loading `eledmac'.
+
+
+See the eledmac package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 ...oreledmac' when loading `eledmac'}{\@ehc}
+                                                  
+? H
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+? 
+\@l@dtempcnta=\count192
+\@l@dtempcntb=\count193
+\section@num=\count194
+\l@dnumpstartsL=\count195
+\line@margin=\count196
+\c@firstlinenum=\count197
+\c@linenumincrement=\count198
+\c@firstsublinenum=\count199
+Normal \count register pool exhausted, switching to extended pool.
+\c@sublinenumincrement=\count277
+\lock@disp=\count278
+\sublock@disp=\count279
+\linenumsep=\skip65
+\led@toksa=\toks19
+\led@toksb=\toks20
+\line@num=\count280
+\subline@num=\count281
+\absline@num=\count282
+\@lock=\count283
+\sub@lock=\count284
+\page@num=\count285
+\endpage@num=\count286
+\endline@num=\count287
+\endsubline@num=\count288
+\@inputcheck=\read2
+\last@page@num=\count289
+\insert@count=\count290
+\linenum@out=\write3
+\@edtext@level=\count291
+\raw@text=\box91
+\num@lines=\count292
+\one@line=\box92
+\par@line=\count293
+\c@pstart=\count294
+\ballast@count=\count295
+\c@ballast=\count296
+\@k=\count297
+\@h=\dimen144
+\old@hsize=\dimen145
+\l@d@end=\write4
+! No room for a new \count .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.3454 ...r\newseries\expandafter{\default@series}
+                                                  
+? X
+ 
+Here is how much of TeX's memory you used:
+ 2399 strings out of 480609
+ 35160 string characters out of 5903657
+ 296215 words of memory out of 5000000
+ 18318 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 31i,0n,38p,817b,81s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

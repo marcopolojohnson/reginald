@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Reginald of Piperno's hand in the alia lectura: Nota de fide trinitatis</title>
+        <title>Reginald of Piperno's hand in the alia lectura: Notandum</title>
         <author>Thomas de Aquino</author>
         <editor>Mark Johnson</editor>
       </titleStmt>
@@ -18,7 +18,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>A personal exercise to master TEI/XML in VS Code and capturing Reginald's hand</p>
+          <p>A personal exercise to master TEI/XML in VS Code and capturing Reginald's of Piperno's hand.</p>
           <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
@@ -80,11 +80,11 @@
           <lb ed="#O"/>sabellius<pc type="punctus">.</pc> Nam<!-- Nam test?--> arrius induxit pluralitatem essentie<pc type="punctus-medius">·</pc>
           <lb ed="#O"/>Sabellius uero abstulit trinitatem personarum<pc type="punctus">.</pc> Et ideo cum lo
           <lb ed="#O" break="no"/>quimur<!-- note the q barre--> de trinitate<pc type="punctus-elevatus">;</pc><!-- point and tickle with straight tickle towards two-o'clock--> uitare debemus omnia nomina que aliquam
-          <lb ed="#O"/>occcasionem prebere possent errori istorum<pc type="punctus">.</pc> 
+          <lb ed="#O"/>occasionem prebere possent errori istorum<pc type="punctus">.</pc> 
           <lb ed="#O"/>Aggrauauit<!-- wonderful double-Reginald-letter-G-->
           <lb ed="#O"/>autem arrius errorum suum in quattuor<pc type="punctus-medius">·</pc> secundum quattuor que po
           <lb ed="#O" break="no"/>suit<pc type="punctus-medius">·</pc> scilicet<pc type="punctus-medius">·</pc> aliam esse essentiam patris et filii<!-- what's going on here? Did he start to write 'filius' and change?--> et spirituS Sancti<pc type="punctus">.</pc> <del rend="strikethrough">Item</del> dissi
-          <lb ed="#O" break="no"/>milutudine, Inequalitatem<pc type="punctus-medius">·</pc> et negauit simplicitatem<pc type="punctus">.</pc> Et propter hoc uitanda sunt 4or nomina istis correspondentia<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> diuersum<pc type="punctus-medius">·</pc> quod importat diuersitatem essentie<pc type="punctus-medius">·</pc> diuisum quod repugnat simplicitati<pc type="punctus-medius">·</pc> Alienum quod
+          <lb ed="#O" break="no"/>milutudinem, Inequalitatem<pc type="punctus-medius">·</pc> et negauit simplicitatem<pc type="punctus">.</pc> Et propter hoc uitanda sunt 4or nomina istis correspondentia<pc type="punctus-medius">·</pc>scilicet<pc type="punctus-medius">·</pc> diuersum<pc type="punctus-medius">·</pc> quod importat diuersitatem essentie<pc type="punctus-medius">·</pc> diuisum quod repugnat simplicitati<pc type="punctus-medius">·</pc> Alienum quod
           <lb ed="#O"/>tollit similitudinem<pc type="punctus-medius">·</pc> dispar quod tollit equalitatem<pc type="punctus-medius">·</pc> debemus autem dicere<pc type="punctus-medius">·</pc> unum<pc type="punctus-medius">·</pc> simplicem<pc type="punctus-medius">·</pc> similem equalem<pc type="punctus-medius">·</pc> <pc type="pilcrow">¶</pc> Sabellius uero<pc type="punctus-medius">·</pc> <del rend="strikethrough">p</del> <!-- deleted in MS: double strike-through-->auferens trinitatem personarum<pc type="punctus-medius">·</pc> dixit unam esse tantum personam <add place="above-line">in</add> diuinis<pc type="punctus-medius">·</pc> et quando uult est pater<pc type="punctus-medius">·</pc> quando
           <lb ed="#O"/>uult est filius<pc type="punctus-medius">·</pc> et quando uult est spiritus Sanctus<pc type="punctus-medius">·</pc> Et si<!-- check this tickle against others; this looks like what he'll use for a point and tickle (!) not the usual one for marking the letter i. NOTE: I may be wrong on this, as elsewhere he uses this 'strong' tickle to emphasize an i (e.g., supra: filii)-->c circa hunc errorem 4or posuit<pc type="punctus-medius">·</pc> Nam primo tollebat communicabilitatem nature diuine<pc type="punctus-medius">·</pc> secundo realem pluralitatem personarum<pc type="punctus-medius">·</pc><!-- he also adds a north-south line through, it seems, the punctus medius (possible stoppage of copying?-->tertio ordinem originis<pc type="punctus-medius">·</pc> Et quarto
           <lb ed="#O"/>consociationem patris et filii<pc type="punctus-medius">·</pc> que est per amorem<pc type="punctus-medius">·</pc> Et ideo debemus uitare nomina correspondentia istis quatuor<pc type="punctus-medius">·</pc> Et primo illud nomen quod important incommunicabilitatem nature diuine<pc type="punctus-medius">·</pc> scilicet<pc type="punctus-medius">·</pc> singularem<pc type="punctus-medius">·</pc> Unde <add place="margin-right" hand="#C">cum</add> natura
