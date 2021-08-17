@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Reginald of Piperno's hand in the alia lectura: Notandum</title>
-        <author>Thomas de Aquino</author>
+        <author>Thomas de Aquino (?)</author>
         <editor>Mark Johnson</editor>
       </titleStmt>
       <editionStmt>
@@ -69,9 +69,10 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="starts-on"/>
-        <pb ed="#O" n="73-v" /> <!-- start of Notandum -->
-    </front>
+      <div xml:id="starts-on">
+        <pb ed="#O" n="73-v" />
+      </div>
+    </front> <!-- start of Notandum -->
     <body>
       <div xml:id="itemdid">
         <head>Oxford, Lincoln College ms lat. 95, f. 73v marg. ext.—73v in calce</head>
